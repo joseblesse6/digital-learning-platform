@@ -47,9 +47,12 @@ This project proposes a digital learning platform that provides educational cont
 - Jeniksha Sarolin
 - Pragadheeshwaran
 
-## Project Status 
+## Project Documentation
 
-This repository documents the project idea and system design developed as an academic project. Currently, only the project documentation is available. Implementation is planned as a future enhancement. 
+The complete project documentation is available in this repository.
+
+📄 File:
+Digital_Learning_Platform.pdf
 
 ## Future Improvements 
 
